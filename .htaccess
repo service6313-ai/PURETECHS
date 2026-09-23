@@ -1,0 +1,25 @@
+# PureTechs — Apache / cPanel settings. Ignored by hosts that do not use Apache.
+
+ErrorDocument 404 /404.html
+DirectoryIndex index.html
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript image/svg+xml application/xml text/plain
+</IfModule>
+
+<IfModule mod_headers.c>
+  # CSS and JS are referenced with ?v=… and change name when edited: cache for a year.
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  # Fonts, logos and icons are not versioned: cache for a week, then revalidate.
+  <FilesMatch "\.(woff2|svg|png|jpg)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+  # Pages always revalidate, so copy edits show up immediately.
+  <FilesMatch "\.(html|xml|txt)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
