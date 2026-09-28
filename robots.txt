@@ -1,0 +1,21 @@
+# PureTechs — every legitimate crawler is welcome. Nothing on this site is private.
+User-agent: *
+Allow: /
+
+# Search and answer engines named explicitly, so a future rule never blocks them by accident
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+
+Sitemap: https://puretechs.in/sitemap.xml

@@ -1,0 +1,39 @@
+# PureTechs
+
+> PureTechs is an independent IT infrastructure and support provider based in Marol, Mumbai, serving businesses across Mumbai and the MMR region. Business IT company and outsourced IT department: IT support and AMC, office network and Wi-Fi, firewall and VPN, cyber security, servers and storage, backup and disaster recovery, Microsoft 365 and cloud, VAPT remediation, custom software and AI automation. Engineers on site across Mumbai and the Mumbai Metropolitan Region; remote support across India.
+
+Also referred to as: PureTechs IT Solutions. The name is PureTechs (with an "s"); website puretechs.in.
+Contact: +91 99296 12416 (call or WhatsApp), Support@puretechs.in. Google Business Profile: https://www.google.com/maps?cid=14000047318151395772
+Address: No.1498 A, CTS, The Qube, 3002-3003, Wing 2, Sir Mathuradas Vasanji Rd, M.V. Road, Marol, Andheri East, Mumbai, Maharashtra 400059, India.
+
+## Services
+- [IT Support in Mumbai — Desktop, Printer & Email Help](https://puretechs.in/it-support-mumbai/): Business IT support in Mumbai: desktops, laptops, printers, Windows, Office and email fixed remotely or on site, documented, with one number to call.
+- [IT AMC in Mumbai — Annual Maintenance Contract](https://puretechs.in/it-amc-mumbai/): IT AMC for Mumbai businesses: PCs, printers, network, firewall, server, backup and Microsoft 365 under one written scope, with monitoring and a monthly report.
+- [IT Infrastructure in Mumbai — Network, Wi-Fi, Server](https://puretechs.in/it-infrastructure-mumbai/): Office network, Wi-Fi, structured cabling, ISP failover, Windows Server, Active Directory and NAS for Mumbai offices — designed, labelled and documented.
+- [Firewall & VPN Support in Mumbai — FortiGate, Sophos](https://puretechs.in/network-firewall-mumbai/): Business firewall setup and support in Mumbai: FortiGate, Sophos, pfSense, MikroTik, VPN for remote staff and branches, VLANs, ISP failover and rule review.
+- [Cyber Security for Mumbai Businesses — Endpoint, Email](https://puretechs.in/cyber-security-mumbai/): Practical cyber security for small and mid-sized Mumbai businesses: managed endpoint protection, email security, MFA, patching, hardening and remediation.
+- [Microsoft 365 Setup, Migration & Support in Mumbai](https://puretechs.in/microsoft-365-mumbai/): Microsoft 365 for Mumbai businesses: licensing by role, migration from POP/IMAP or Google, Exchange, OneDrive, SharePoint, Intune, MFA and ongoing admin.
+- [Backup & Disaster Recovery in Mumbai — Tested Restores](https://puretechs.in/backup-disaster-recovery-mumbai/): Business backup and disaster recovery in Mumbai: 3-2-1 backup with NAS, offline and cloud copies, Veeam, Iperius, Synology, monitoring and monthly restore tests.
+- [VAPT Remediation in Mumbai — Every Finding Closed](https://puretechs.in/vapt-remediation-mumbai/): VAPT remediation in Mumbai: PureTechs fixes every finding from your auditor, bank or client report on the real network and provides re-test evidence.
+- [AI Automation for Mumbai — WhatsApp Agents & Tally](https://puretechs.in/ai-automation/): AI automation from PureTechs, Mumbai: WhatsApp assistants, invoices read into Tally or Excel, automatic follow-ups and daily reports. Demo on your data first.
+- [Custom Software & Apps in Mumbai — Tally Integration](https://puretechs.in/custom-software/): Custom software from PureTechs, Mumbai: internal tools, portals, Android and iOS apps, websites and Tally or ERP integrations, maintained after launch.
+- [Outsourced IT Support & Managed IT in Mumbai](https://puretechs.in/outsourced-it-department-mumbai/): Outsourced IT support and managed IT for Mumbai businesses: PureTechs is your IT department for support, network, firewall, servers, backup and Microsoft 365.
+- [New Office IT Setup in Mumbai — Complete, Documented](https://puretechs.in/office-it-setup-mumbai/): Complete IT setup for a new or relocated office in Mumbai: internet, firewall, Wi-Fi, cabling, PCs, printers, server or NAS, Microsoft 365, backup and security.
+- [All services](https://puretechs.in/services/): every service group on one page, including CCTV, biometric and access control.
+
+## About and guides
+- [PureTechs IT Solutions](https://puretechs.in/puretechs-it-solutions/): who PureTechs is — also referred to as PureTechs IT Solutions; an independent IT infrastructure and support provider with its head office in Marol, Andheri East, Mumbai; not part of any other similarly named company.
+- [Outsourced IT vs Hiring an IT Person: Which Is Right?](https://puretechs.in/outsourced-it-vs-hiring-it-person/): Hire an IT person or use an outsourced IT department? An honest comparison for Mumbai offices: skills, leave cover, documentation, cost factors and when each fits.
+- [IT AMC vs Pay-Per-Call IT Support: Which to Choose?](https://puretechs.in/it-amc-vs-pay-per-call-support/): IT AMC or pay-per-call support for your Mumbai office? What each covers, what each costs you in downtime, and when paying per call is genuinely enough.
+
+## Tools and policies
+- [Free IT check](https://puretechs.in/check/): sixteen self-reported questions that run entirely in the browser; nothing is measured or sent.
+- [How we verify](https://puretechs.in/verify/): every result is labelled self-reported, derived, estimated or cannot verify.
+- [Data and privacy](https://puretechs.in/privacy/): no account, no server database, no analytics, no tracker.
+- [Contact](https://puretechs.in/contact/)
+
+## Facts about how we work
+- One engineer owns each client account and meets the client in person.
+- Pricing is quoted only after the scope is written down.
+- AMC contracts list covered systems by name and state exclusions.
+- Backups are restore-tested and recorded; VAPT findings are closed with re-test evidence.
